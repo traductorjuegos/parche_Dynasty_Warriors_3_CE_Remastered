@@ -13,7 +13,7 @@ Este manual detalla paso a paso para parchear el juego Dynasty Warriors 3 Comple
 
 ## 1. Requisitos Previos
 
-1. **parcheador_juegos_unreal_engine5**: Descárgalo [aquí](https://github.com/traductorjuegos/parcheador_juegos_unreal_engine5).
+1. **parcheador_juegos_unreal_engine5**: Descárgalo [aquí](https://github.com/traductorjuegos/parcheador_juegos_unreal_engine5). (v0.1 o posterior)
 2. **parche_Dynasty_Warriors_3_CE_Remastered_ES-es.json**: Incluído en este mismo repo.
 ---
 
